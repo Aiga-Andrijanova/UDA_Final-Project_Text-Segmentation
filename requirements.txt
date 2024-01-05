@@ -1,0 +1,10 @@
+torch==2.1.*
+torchvision==0.16.*
+opencv-python==4.7.*
+torchmetrics==1.2.*
+pandas==2.1.*
+numpy==1.24.*
+tqdm==4.66.*
+tensorflow==2.15.* 
+pdf2image==1.16.*
+albumentations==1.3.*
